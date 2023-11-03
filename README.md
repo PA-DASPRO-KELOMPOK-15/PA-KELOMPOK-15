@@ -65,6 +65,7 @@ Customer memasukkan akun customer untuk login
 
 Setelah berhasil login , customer di arahkan ke Menu Customer, Dalam menu customer ini terdapat 4 pilihan dan customer akan diminta menginpun pilihan yang diingkan untuk menjalankan program.
 Jika customer memilih 1, maka customer akan diminta untuk menginput nama ruang dan waktu sewa yang ingin dibeli. Setelah selesai membeli, maka customer akan diminta untuk memilih metode pembayaran yang tersedia dengan menginputkan angka pilihannya.
+
 ![Screenshot 2023-11-03 233342](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/96fcb391-88b6-41de-9be6-6986413b6275)
 
 ![Screenshot 2023-11-04 005913](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/df4f4b64-9efc-4043-93f2-bf37deadd82b)
