@@ -65,5 +65,20 @@ Customer memasukkan akun customer untuk login
 
 Setelah berhasil login , customer di arahkan ke Menu Customer, Dalam menu customer ini terdapat 4 pilihan dan customer akan diminta menginpun pilihan yang diingkan untuk menjalankan program.
 Jika customer memilih 1, maka customer akan diminta untuk menginput nama ruang dan waktu sewa yang ingin dibeli. Setelah selesai membeli, maka customer akan diminta untuk memilih metode pembayaran yang tersedia dengan menginputkan angka pilihannya.
-
 ![Screenshot 2023-11-03 233342](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/96fcb391-88b6-41de-9be6-6986413b6275)
+
+![Screenshot 2023-11-04 005913](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/df4f4b64-9efc-4043-93f2-bf37deadd82b)
+
+![Screenshot 2023-11-04 010902](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/070eb6b9-4c3c-458d-bf71-95c9ba5ac4b0)
+
+jika customer memilih 2, maka customer akan diminta memilih dari pilihan saldo yang tersedia. Lalu kemudian saldo e-money akan otomatis ditembahakan.
+
+![Screenshot 2023-11-04 010046](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/cfec3c93-2050-46d4-8814-77af72f35ab3)
+
+ika customer memilih 3, maka program akan menampilkan saldo yang dimiliki oleh customer.
+
+![Screenshot 2023-11-04 010151](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/ee2081da-9f05-446c-af42-183c1b028996)
+
+Jika customer memilih 4, maka customer akan keluar dari menu customer dan kembali pada menu awal program.
+
+![Screenshot 2023-11-03 232138](https://github.com/muhamadnurfadilah/muhamadnurfadilah/assets/144762120/ddbceec9-cc1a-4ec9-ba4c-5e7619204f42)
