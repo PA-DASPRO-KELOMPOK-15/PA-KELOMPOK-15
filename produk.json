@@ -1,0 +1,38 @@
+{
+    "Kode": [
+        "001",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "007"
+    ],
+    "Kategori": [
+        "Small",
+        "Medium",
+        "Large",
+        "Suite",
+        "VIP",
+        "VVIP",
+        "BALLROOM"
+    ],
+    "Harga Sewa": [
+        50000,
+        75000,
+        100000,
+        125000,
+        150000,
+        200000,
+        250000
+    ],
+    "Status": [
+        "Kosong",
+        "Terisi",
+        "Kosong",
+        "Kosong",
+        "Kosong",
+        "Terisi",
+        "Terisi"
+    ]
+}
